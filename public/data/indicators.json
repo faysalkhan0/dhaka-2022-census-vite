@@ -1,0 +1,1551 @@
+[
+  {
+    "code": "C-01",
+    "title": "Household, Population and Sex Ratio",
+    "groups": [
+      {
+        "title": "Household (Except Floating Household)",
+        "fields": [
+          {
+            "field": "c_01_household_except_floating_household_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_01_general",
+            "label": "General",
+            "type": "number"
+          },
+          {
+            "field": "c_01_institutional",
+            "label": "Institutional",
+            "type": "number"
+          },
+          {
+            "field": "c_01_others",
+            "label": "Others",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Population (Including Floating Population)",
+        "fields": [
+          {
+            "field": "c_01_population_including_floating_population_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_01_male",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_01_female",
+            "label": "Female",
+            "type": "number"
+          },
+          {
+            "field": "c_01_hijra",
+            "label": "Hijra",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Sex Ratio",
+        "fields": [
+          {
+            "field": "c_01_sex_ratio",
+            "label": "Sex Ratio",
+            "type": "decimal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-02",
+    "title": "Population by Age Group",
+    "groups": [
+      {
+        "title": "Population",
+        "fields": [
+          {
+            "field": "c_02_total",
+            "label": "Total",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Age Group (in years)",
+        "fields": [
+          {
+            "field": "c_02_age_group_in_years_0_4",
+            "label": "0-4",
+            "type": "number"
+          },
+          {
+            "field": "c_02_5_9",
+            "label": "5-9",
+            "type": "number"
+          },
+          {
+            "field": "c_02_10_14",
+            "label": "10-14",
+            "type": "number"
+          },
+          {
+            "field": "c_02_15_19",
+            "label": "15-19",
+            "type": "number"
+          },
+          {
+            "field": "c_02_20_24",
+            "label": "20-24",
+            "type": "number"
+          },
+          {
+            "field": "c_02_25_29",
+            "label": "25-29",
+            "type": "number"
+          },
+          {
+            "field": "c_02_30_34",
+            "label": "30-34",
+            "type": "number"
+          },
+          {
+            "field": "c_02_35_39",
+            "label": "35-39",
+            "type": "number"
+          },
+          {
+            "field": "c_02_40_44",
+            "label": "40-44",
+            "type": "number"
+          },
+          {
+            "field": "c_02_45_49",
+            "label": "45-49",
+            "type": "number"
+          },
+          {
+            "field": "c_02_50_54",
+            "label": "50-54",
+            "type": "number"
+          },
+          {
+            "field": "c_02_55_59",
+            "label": "55-59",
+            "type": "number"
+          },
+          {
+            "field": "c_02_60_64",
+            "label": "60-64",
+            "type": "number"
+          },
+          {
+            "field": "c_02_65_69",
+            "label": "65-69",
+            "type": "number"
+          },
+          {
+            "field": "c_02_70_74",
+            "label": "70-74",
+            "type": "number"
+          },
+          {
+            "field": "c_02_75_79",
+            "label": "75-79",
+            "type": "number"
+          },
+          {
+            "field": "c_02_80",
+            "label": "80+",
+            "type": "number"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-03",
+    "title": "Population by Religion",
+    "groups": [
+      {
+        "title": "Population",
+        "fields": [
+          {
+            "field": "c_03_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_03_muslim",
+            "label": "Muslim",
+            "type": "number"
+          },
+          {
+            "field": "c_03_hindu",
+            "label": "Hindu",
+            "type": "number"
+          },
+          {
+            "field": "c_03_christian",
+            "label": "Christian",
+            "type": "number"
+          },
+          {
+            "field": "c_03_buddhist",
+            "label": "Buddhist",
+            "type": "number"
+          },
+          {
+            "field": "c_03_others",
+            "label": "Others",
+            "type": "number"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-04",
+    "title": "Marital Status of Population Aged 10 Years and above by Sex",
+    "groups": [
+      {
+        "title": "Male",
+        "fields": [
+          {
+            "field": "c_04_male_population_number",
+            "label": "Population (Number)",
+            "type": "number"
+          },
+          {
+            "field": "c_04_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_04_never_married",
+            "label": "Never Married",
+            "type": "number"
+          },
+          {
+            "field": "c_04_currently_married",
+            "label": "Currently Married",
+            "type": "number"
+          },
+          {
+            "field": "c_04_widowed_widower",
+            "label": "Widowed/ Widower",
+            "type": "number"
+          },
+          {
+            "field": "c_04_divorced",
+            "label": "Divorced",
+            "type": "number"
+          },
+          {
+            "field": "c_04_separated",
+            "label": "Separated",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Female",
+        "fields": [
+          {
+            "field": "c_04_female_population_number",
+            "label": "Population (Number)",
+            "type": "number"
+          },
+          {
+            "field": "c_04_total_2",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_04_never_married_2",
+            "label": "Never Married",
+            "type": "number"
+          },
+          {
+            "field": "c_04_currently_married_2",
+            "label": "Currently Married",
+            "type": "number"
+          },
+          {
+            "field": "c_04_widowed_widower_2",
+            "label": "Widowed/ Widower",
+            "type": "number"
+          },
+          {
+            "field": "c_04_divorced_2",
+            "label": "Divorced",
+            "type": "number"
+          },
+          {
+            "field": "c_04_separated_2",
+            "label": "Separated",
+            "type": "number"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-05",
+    "title": "Literacy Rate by Sex",
+    "groups": [
+      {
+        "title": "5 Years and above",
+        "fields": [
+          {
+            "field": "c_05_5_years_and_above_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_05_male",
+            "label": "Male",
+            "type": "percent"
+          },
+          {
+            "field": "c_05_female",
+            "label": "Female",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "7 Years and above",
+        "fields": [
+          {
+            "field": "c_05_7_years_and_above_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_05_male_2",
+            "label": "Male",
+            "type": "percent"
+          },
+          {
+            "field": "c_05_female_2",
+            "label": "Female",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "15 Years and above",
+        "fields": [
+          {
+            "field": "c_05_15_years_and_above_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_05_male_3",
+            "label": "Male",
+            "type": "percent"
+          },
+          {
+            "field": "c_05_female_3",
+            "label": "Female",
+            "type": "percent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-06",
+    "title": "Population Aged 5 Years and above by Field of Education and Highest Level of Education Attained",
+    "groups": [
+      {
+        "title": "Population (Number)",
+        "fields": [
+          {
+            "field": "c_06_population_number",
+            "label": "Population (Number)",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Field of Education",
+        "fields": [
+          {
+            "field": "c_06_field_of_education_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_06_general",
+            "label": "General",
+            "type": "number"
+          },
+          {
+            "field": "c_06_technical",
+            "label": "Technical",
+            "type": "number"
+          },
+          {
+            "field": "c_06_religious",
+            "label": "Religious",
+            "type": "number"
+          },
+          {
+            "field": "c_06_others",
+            "label": "Others",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Highest Level of Education Attained",
+        "fields": [
+          {
+            "field": "c_06_highest_level_of_education_attained_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_06_attended_school_but_not_completed_play_nursery_kg_pre_primary_class_i",
+            "label": "Attended School but Not Completed Play/Nursery/ KG/Pre-Primary/Class I",
+            "type": "number"
+          },
+          {
+            "field": "c_06_play_nursery_kg_pre_primary_student",
+            "label": "Play/Nursery/KG/Pre-Primary student",
+            "type": "number"
+          },
+          {
+            "field": "c_06_student_class_i",
+            "label": "Student-Class I",
+            "type": "number"
+          },
+          {
+            "field": "c_06_class_i_v",
+            "label": "Class I- V",
+            "type": "number"
+          },
+          {
+            "field": "c_06_class_vi_ix",
+            "label": "Class VI- IX",
+            "type": "number"
+          },
+          {
+            "field": "c_06_ssc_dakhil_o_level_equivalent",
+            "label": "SSC/Dakhil/O-Level/Equivalent",
+            "type": "number"
+          },
+          {
+            "field": "c_06_hsc_alim_a_level_equivalent",
+            "label": "HSC/Alim/A-Level/Equivalent",
+            "type": "number"
+          },
+          {
+            "field": "c_06_diploma_nursing_midwifery",
+            "label": "Diploma/Nursing/Midwifery",
+            "type": "number"
+          },
+          {
+            "field": "c_06_graduate_and_above",
+            "label": "Graduate and above*",
+            "type": "number"
+          },
+          {
+            "field": "c_06_non_formal_informal_education_and_others",
+            "label": "Non-formal/Informal Education and Others",
+            "type": "number"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-07",
+    "title": "Currently Student Aged 5-29 Years by Sex",
+    "groups": [
+      {
+        "title": "Total",
+        "fields": [
+          {
+            "field": "c_07_total_male",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_07_female",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "5-9 Years",
+        "fields": [
+          {
+            "field": "c_07_5_9_years_male",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_07_female_2",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "10-14 Years",
+        "fields": [
+          {
+            "field": "c_07_10_14_years_male",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_07_female_3",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "15-19 Years",
+        "fields": [
+          {
+            "field": "c_07_15_19_years_male",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_07_female_4",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "20-24 Years",
+        "fields": [
+          {
+            "field": "c_07_20_24_years_male",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_07_female_5",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "25-29 Years",
+        "fields": [
+          {
+            "field": "c_07_25_29_years_male",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_07_female_6",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-08",
+    "title": "Population Aged 5 Years and above by Working Status and Sex",
+    "groups": [
+      {
+        "title": "Population",
+        "fields": [
+          {
+            "field": "c_08_population_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_08_male",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_08_female",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Employed",
+        "fields": [
+          {
+            "field": "c_08_employed_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_08_male_2",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_08_female_2",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Household Work",
+        "fields": [
+          {
+            "field": "c_08_household_work_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_08_male_3",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_08_female_3",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Looking for Work",
+        "fields": [
+          {
+            "field": "c_08_looking_for_work_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_08_male_4",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_08_female_4",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Do not Work",
+        "fields": [
+          {
+            "field": "c_08_do_not_work_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_08_male_5",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_08_female_5",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-09",
+    "title": "Employed Population Aged 5 Years and above by Sector and Sex",
+    "groups": [
+      {
+        "title": "Total",
+        "fields": [
+          {
+            "field": "c_09_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_09_male",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_09_female",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Agriculture",
+        "fields": [
+          {
+            "field": "c_09_agriculture_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_09_male_2",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_09_female_2",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Industry",
+        "fields": [
+          {
+            "field": "c_09_industry_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_09_male_3",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_09_female_3",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Service",
+        "fields": [
+          {
+            "field": "c_09_service_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_09_male_4",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_09_female_4",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-10",
+    "title": "Population Aged 15-24 Years Not in Education, Employment or Training (NEET)",
+    "groups": [
+      {
+        "title": "Total",
+        "fields": [
+          {
+            "field": "c_10_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_10_15_19_years",
+            "label": "15-19 Years",
+            "type": "percent"
+          },
+          {
+            "field": "c_10_20_24_years",
+            "label": "20-24 Years",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Male",
+        "fields": [
+          {
+            "field": "c_10_male_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_10_15_19_years_2",
+            "label": "15-19 Years",
+            "type": "percent"
+          },
+          {
+            "field": "c_10_20_24_years_2",
+            "label": "20-24 Years",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Female",
+        "fields": [
+          {
+            "field": "c_10_female_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_10_15_19_years_3",
+            "label": "15-19 Years",
+            "type": "percent"
+          },
+          {
+            "field": "c_10_20_24_years_3",
+            "label": "20-24 Years",
+            "type": "percent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-11",
+    "title": "Population having Mobile Phone for Own Use and Internet User",
+    "groups": [
+      {
+        "title": "Population having Mobile Phone for Own Use — 5 Years and above",
+        "fields": [
+          {
+            "field": "c_11_5_years_and_above_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_11_male",
+            "label": "Male",
+            "type": "percent"
+          },
+          {
+            "field": "c_11_female",
+            "label": "Female",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Population having Mobile Phone for Own Use — 15 Years and above",
+        "fields": [
+          {
+            "field": "c_11_15_years_and_above_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_11_male_2",
+            "label": "Male",
+            "type": "percent"
+          },
+          {
+            "field": "c_11_female_2",
+            "label": "Female",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Internet User — 5 Years and above",
+        "fields": [
+          {
+            "field": "c_11_5_years_and_above_total_2",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_11_male_3",
+            "label": "Male",
+            "type": "percent"
+          },
+          {
+            "field": "c_11_female_3",
+            "label": "Female",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Internet User — 15 Years and above",
+        "fields": [
+          {
+            "field": "c_11_15_years_and_above_total_2",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_11_male_4",
+            "label": "Male",
+            "type": "percent"
+          },
+          {
+            "field": "c_11_female_4",
+            "label": "Female",
+            "type": "percent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-12",
+    "title": "Population Aged 15 Years and above having Account in Financial Institution and Mobile Banking Account",
+    "groups": [
+      {
+        "title": "Having Account in Financial Institution (Bank/Insurance/Micro-credit/Post office etc.)",
+        "fields": [
+          {
+            "field": "c_12_having_account_in_financial_institution_bank_insurance_micro_credit_post_office_etc_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_12_male",
+            "label": "Male",
+            "type": "percent"
+          },
+          {
+            "field": "c_12_female",
+            "label": "Female",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Having Mobile Banking Account",
+        "fields": [
+          {
+            "field": "c_12_having_mobile_banking_account_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_12_male_2",
+            "label": "Male",
+            "type": "percent"
+          },
+          {
+            "field": "c_12_female_2",
+            "label": "Female",
+            "type": "percent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-13",
+    "title": "Ethnic Population by Major Ethnic Group and Sex",
+    "groups": [
+      {
+        "title": "Ethnic Population",
+        "fields": [
+          {
+            "field": "c_13_ethnic_population_total",
+            "label": "Total",
+            "type": "number"
+          },
+          {
+            "field": "c_13_male",
+            "label": "Male",
+            "type": "number"
+          },
+          {
+            "field": "c_13_female",
+            "label": "Female",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Ethnic Population in Major Groups",
+        "fields": [
+          {
+            "field": "c_13_ethnic_population_in_major_groups_garo",
+            "label": "Garo",
+            "type": "number"
+          },
+          {
+            "field": "c_13_chakma",
+            "label": "Chakma",
+            "type": "number"
+          },
+          {
+            "field": "c_13_marma",
+            "label": "Marma",
+            "type": "number"
+          },
+          {
+            "field": "c_13_others",
+            "label": "Others",
+            "type": "number"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-14",
+    "title": "General Household by Structure of Main Dwelling Unit and Ownership Status",
+    "groups": [
+      {
+        "title": "General Household",
+        "fields": [
+          {
+            "field": "c_14_general_household",
+            "label": "General Household",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Type of Structure",
+        "fields": [
+          {
+            "field": "c_14_type_of_structure_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_14_pucca",
+            "label": "Pucca",
+            "type": "percent"
+          },
+          {
+            "field": "c_14_semi_pucca",
+            "label": "Semi-pucca",
+            "type": "percent"
+          },
+          {
+            "field": "c_14_kancha",
+            "label": "Kancha",
+            "type": "percent"
+          },
+          {
+            "field": "c_14_jhupri",
+            "label": "Jhupri",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Ownership Status",
+        "fields": [
+          {
+            "field": "c_14_ownership_status_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_14_own_dwelling_unit",
+            "label": "Own dwelling unit",
+            "type": "percent"
+          },
+          {
+            "field": "c_14_rented_but_having_own_dwelling_unit_elsewhere",
+            "label": "Rented but having own dwelling unit elsewhere",
+            "type": "percent"
+          },
+          {
+            "field": "c_14_rented_and_having_no_own_dwelling_unit_elsewhere",
+            "label": "Rented and having no own dwelling unit elsewhere",
+            "type": "percent"
+          },
+          {
+            "field": "c_14_rent_free_but_having_own_dwelling_unit_elsewhere",
+            "label": "Rent free but having own dwelling unit elsewhere",
+            "type": "percent"
+          },
+          {
+            "field": "c_14_rent_free_and_having_no_own_dwelling_unit_elsewhere",
+            "label": "Rent free and having no own dwelling unit elsewhere",
+            "type": "percent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-15",
+    "title": "General Household by Main Source of Drinking Water",
+    "groups": [
+      {
+        "title": "General Household",
+        "fields": [
+          {
+            "field": "c_15_general_household",
+            "label": "General Household",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Source of Drinking Water",
+        "fields": [
+          {
+            "field": "c_15_source_of_drinking_water_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_15_tap_pipe_supply",
+            "label": "Tap/pipe (Supply)",
+            "type": "percent"
+          },
+          {
+            "field": "c_15_tube_well_deep_shallow",
+            "label": "Tube-well (Deep/Shallow)",
+            "type": "percent"
+          },
+          {
+            "field": "c_15_bottled_jar_water",
+            "label": "Bottled/Jar Water",
+            "type": "percent"
+          },
+          {
+            "field": "c_15_well",
+            "label": "Well",
+            "type": "percent"
+          },
+          {
+            "field": "c_15_pond_river_canal_lake",
+            "label": "Pond/River/ Canal/lake",
+            "type": "percent"
+          },
+          {
+            "field": "c_15_spring",
+            "label": "Spring",
+            "type": "percent"
+          },
+          {
+            "field": "c_15_rain_water",
+            "label": "Rain Water",
+            "type": "percent"
+          },
+          {
+            "field": "c_15_others",
+            "label": "Others",
+            "type": "percent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-16",
+    "title": "General Household by Toilet Facilities",
+    "groups": [
+      {
+        "title": "General Household",
+        "fields": [
+          {
+            "field": "c_16_general_household",
+            "label": "General Household",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Toilet Facilities",
+        "fields": [
+          {
+            "field": "c_16_toilet_facilities_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_16_safe_disposal_with_flushing_pouring_water",
+            "label": "Safe Disposal with Flushing/ Pouring Water",
+            "type": "percent"
+          },
+          {
+            "field": "c_16_unsafe_disposal_with_flushing_pouring_water",
+            "label": "Unsafe Disposal with Flushing/ Pouring Water",
+            "type": "percent"
+          },
+          {
+            "field": "c_16_pit_latrine_with_slab_ventilated_improved_latrine_composting_latrine",
+            "label": "Pit Latrine with Slab/ Ventilated Improved Latrine/ Composting Latrine",
+            "type": "percent"
+          },
+          {
+            "field": "c_16_pit_latrine_without_slab_open_pit",
+            "label": "Pit Latrine without Slab/ Open Pit",
+            "type": "percent"
+          },
+          {
+            "field": "c_16_raw_open_hanging_latrine_permanent_temporary",
+            "label": "Raw/Open/ Hanging Latrine (Permanent/ Temporary)",
+            "type": "percent"
+          },
+          {
+            "field": "c_16_open_defecation_no_latrine_available",
+            "label": "Open Defecation/ No Latrine Available",
+            "type": "percent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-17",
+    "title": "General Household by Main Source of Cooking Fuel and Electricity Coverage",
+    "groups": [
+      {
+        "title": "General Household",
+        "fields": [
+          {
+            "field": "c_17_general_household",
+            "label": "General Household",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Source of Cooking Fuel",
+        "fields": [
+          {
+            "field": "c_17_source_of_cooking_fuel_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "c_17_straw_leaf_bran_husk",
+            "label": "Straw/ Leaf/ Bran/ Husk",
+            "type": "percent"
+          },
+          {
+            "field": "c_17_wood_chalk_chopped_wood",
+            "label": "Wood/ Chalk/ Chopped Wood",
+            "type": "percent"
+          },
+          {
+            "field": "c_17_wood_coal_charcoal_dried_dung",
+            "label": "Wood-coal/ Charcoal/ Dried Dung",
+            "type": "percent"
+          },
+          {
+            "field": "c_17_kerosene_paraffin",
+            "label": "Kerosene/ Paraffin",
+            "type": "percent"
+          },
+          {
+            "field": "c_17_petrol_diesel",
+            "label": "Petrol/ Diesel",
+            "type": "percent"
+          },
+          {
+            "field": "c_17_electricity",
+            "label": "Electricity",
+            "type": "percent"
+          },
+          {
+            "field": "c_17_supply_gas",
+            "label": "Supply Gas",
+            "type": "percent"
+          },
+          {
+            "field": "c_17_lp_gas",
+            "label": "LP Gas",
+            "type": "percent"
+          },
+          {
+            "field": "c_17_biogas",
+            "label": "Biogas",
+            "type": "percent"
+          },
+          {
+            "field": "c_17_others",
+            "label": "Others",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Electricity Coverage",
+        "fields": [
+          {
+            "field": "c_17_electricity_coverage",
+            "label": "Electricity Coverage",
+            "type": "percent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C-18",
+    "title": "Comprising of General Household by Number of Persons and Average Household Size",
+    "groups": [
+      {
+        "title": "General Household",
+        "fields": [
+          {
+            "field": "c_18_general_household",
+            "label": "General Household",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Household Comprising",
+        "fields": [
+          {
+            "field": "c_18_household_comprising_1_person",
+            "label": "1 Person",
+            "type": "number"
+          },
+          {
+            "field": "c_18_2_person",
+            "label": "2 Person",
+            "type": "number"
+          },
+          {
+            "field": "c_18_3_person",
+            "label": "3 Person",
+            "type": "number"
+          },
+          {
+            "field": "c_18_4_person",
+            "label": "4 Person",
+            "type": "number"
+          },
+          {
+            "field": "c_18_5_person",
+            "label": "5 Person",
+            "type": "number"
+          },
+          {
+            "field": "c_18_6_person",
+            "label": "6 Person",
+            "type": "number"
+          },
+          {
+            "field": "c_18_7_person",
+            "label": "7 Person",
+            "type": "number"
+          },
+          {
+            "field": "c_18_8_person",
+            "label": "8 Person",
+            "type": "number"
+          },
+          {
+            "field": "c_18_9_person",
+            "label": "9 Person",
+            "type": "number"
+          },
+          {
+            "field": "c_18_10_person",
+            "label": "10 Person",
+            "type": "number"
+          },
+          {
+            "field": "c_18_10_person_2",
+            "label": "10 Person+",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "title": "Average Household Size",
+        "fields": [
+          {
+            "field": "c_18_average_household_size",
+            "label": "Average Household Size",
+            "type": "decimal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "SDG",
+    "title": "SDG Indicators by Union",
+    "groups": [
+      {
+        "title": "Participation in Organized Learning (4.2.2)",
+        "fields": [
+          {
+            "field": "sdg_indicator_by_union_participation_in_organized_learning_4_2_2_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "sdg_indicator_by_union_male",
+            "label": "Male",
+            "type": "percent"
+          },
+          {
+            "field": "sdg_indicator_by_union_female",
+            "label": "Female",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Ownership of mobile phone (5.b.1)",
+        "fields": [
+          {
+            "field": "sdg_indicator_by_union_ownership_of_mobile_phone_5_b_1_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "sdg_indicator_by_union_male_2",
+            "label": "Male",
+            "type": "percent"
+          },
+          {
+            "field": "sdg_indicator_by_union_female_2",
+            "label": "Female",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Basic Sanitation Service (6.2.1 (a))",
+        "fields": [
+          {
+            "field": "sdg_indicator_by_union_basic_sanitation_service_6_2_1_a",
+            "label": "Value",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Basic Handwashing Facilities (6.2.1 (b))",
+        "fields": [
+          {
+            "field": "sdg_indicator_by_union_basic_handwashing_facilities_6_2_1_b",
+            "label": "Value",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Access to Electricity (7.1.1)",
+        "fields": [
+          {
+            "field": "sdg_indicator_by_union_access_to_electricity_7_1_1",
+            "label": "Value",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Clean Fuel (7.1.2)",
+        "fields": [
+          {
+            "field": "sdg_indicator_by_union_clean_fuel_7_1_2",
+            "label": "Value",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "NEET Youth Population (8.6.1)",
+        "fields": [
+          {
+            "field": "sdg_indicator_by_union_neet_youth_population_8_6_1_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "sdg_indicator_by_union_male_3",
+            "label": "Male",
+            "type": "percent"
+          },
+          {
+            "field": "sdg_indicator_by_union_female_3",
+            "label": "Female",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Financial Inclusion (8.10.2)",
+        "fields": [
+          {
+            "field": "sdg_indicator_by_union_financial_inclusion_8_10_2_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "sdg_indicator_by_union_male_4",
+            "label": "Male",
+            "type": "percent"
+          },
+          {
+            "field": "sdg_indicator_by_union_female_4",
+            "label": "Female",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Urban Slum (11.1.1)",
+        "fields": [
+          {
+            "field": "sdg_indicator_by_union_urban_slum_11_1_1_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "sdg_indicator_by_union_male_5",
+            "label": "Male",
+            "type": "percent"
+          },
+          {
+            "field": "sdg_indicator_by_union_female_5",
+            "label": "Female",
+            "type": "percent"
+          }
+        ]
+      },
+      {
+        "title": "Internet User (17.8.1)",
+        "fields": [
+          {
+            "field": "sdg_indicator_by_union_internet_user_17_8_1_total",
+            "label": "Total",
+            "type": "percent"
+          },
+          {
+            "field": "sdg_indicator_by_union_male_6",
+            "label": "Male",
+            "type": "percent"
+          },
+          {
+            "field": "sdg_indicator_by_union_female_6",
+            "label": "Female",
+            "type": "percent"
+          }
+        ]
+      }
+    ]
+  }
+]

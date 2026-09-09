@@ -1,0 +1,18 @@
+{
+  "rows": 4914,
+  "features": 4914,
+  "geometry_features": 4909,
+  "missing_geometry": 5,
+  "admin_type_counts": {
+    "village": 3405,
+    "mauza": 1192,
+    "city_ward": 163,
+    "union": 63,
+    "city_thana": 53,
+    "paurashava_ward": 27,
+    "upazila": 5,
+    "paurashava": 3,
+    "city_corporation": 2,
+    "district": 1
+  }
+}
